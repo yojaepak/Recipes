@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(5, 5, 5);
+}
+.description,
+.ingredients,
+.steps,
+.list,
+.title {
+    color: white;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.container .recipe{
+    color: pink;
+}
